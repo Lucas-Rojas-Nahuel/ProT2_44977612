@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>GymFit</title>
 
     <!-- Agrege un css para modificar a mi gusto-->
     <link href="assets/css-mi-Estilo/style.css" rel="stylesheet">
