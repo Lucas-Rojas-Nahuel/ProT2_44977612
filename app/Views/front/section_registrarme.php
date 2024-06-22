@@ -11,7 +11,7 @@
             </div>
             <div class="col-md-6">
                 <label for="inputPassword4" class="form-label">Apellido</label>
-                <input type="password" class="form-control" id="inputPassword4">
+                <input type="text" class="form-control" id="inputPassword4">
             </div>
             <div class="col-12">
                 <label for="inputAddress" class="form-label">Email</label>
